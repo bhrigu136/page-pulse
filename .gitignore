@@ -178,6 +178,8 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+implementation_plan.md
+
 # Cython debug symbols
 cython_debug/
 
@@ -200,8 +202,6 @@ cython_debug/
 #   and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #   you could uncomment the following to ignore the entire vscode folder
 # .vscode/
-# Temporary file for partial code execution
-tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
